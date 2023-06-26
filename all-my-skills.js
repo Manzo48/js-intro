@@ -7,3 +7,5 @@ for (key of arr){
     }
 }
 console.log(arr2)
+
+let arr3 = [`work`]
